@@ -4,7 +4,7 @@
  
 Welcome to my tiny corner of the GitHub world! I'm a passionate blockchain developer that specializes in designing new solutions using Ethereum and smart contracts. I enjoy solving challenging problems with elegant code and creating cutting-edge technological applications.
 
---- 
+---
 
 ### 💻 Things I code with
 
@@ -98,7 +98,7 @@ Welcome to my tiny corner of the GitHub world! I'm a passionate blockchain devel
 pragma solidity ^0.8.0;
 
 contract HelloBlockchain {
-    string public greet = "Hello, Blockchain World!";
+    string public greet = "Hello,Blockchain World!";
 
     function setGreeting(string memory _greet) public {
         greet = _greet;
